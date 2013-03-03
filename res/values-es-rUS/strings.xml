@@ -78,8 +78,8 @@
     <string name="menu_answerAndHold" msgid="8830891495953688905">"Retener la llamada actual"\n" respuesta"</string>
     <string name="menu_answerAndEnd" msgid="2071708281281611854">"Finalizar la llamada actual"\n" respuesta"</string>
     <string name="ok" msgid="3811371167865772377">"Aceptar"</string>
-    <string name="menuButtonHint" msgid="4853215496220101699">"Pulsa Menú para obtener las opciones de llamada."</string>
-    <string name="menuButtonKeyboardDialHint" msgid="2869270434715312458">"Pulsa Menú para obtener las opciones de llamada  •  Utiliza el teclado para marcar"</string>
+    <string name="menuButtonHint" msgid="4853215496220101699">"Oprima Menú para obtener las opciones de llamada."</string>
+    <string name="menuButtonKeyboardDialHint" msgid="2869270434715312458">"Oprima Menú para obtener las opciones de llamada  •  Utiliza el teclado para marcar"</string>
     <string name="menu_answer" msgid="116686205042231098">"Respuesta"</string>
     <string name="menu_ignore" msgid="2112030835852537344">"Ignorar"</string>
     <string name="wait_prompt_str" msgid="7601815427707856238">"¿Deseas enviar los siguientes tonos?"\n</string>
@@ -92,15 +92,15 @@
     <string name="no_vm_number_msg" msgid="1300729501030053828">"No hay un número de correo de voz almacenado en la tarjeta SIM."</string>
     <string name="add_vm_number_str" msgid="4676479471644687453">"Agregar número"</string>
     <string name="dialer_emptyListWorking" msgid="6022498519770859790">"Cargando…"</string>
-    <string name="enterPin" msgid="4753300834213388397">"Escribe el código PIN para desbloquear la tarjeta SIM:"</string>
+    <string name="enterPin" msgid="4753300834213388397">"Escriba el código PIN para desbloquear la tarjeta SIM:"</string>
     <string name="pinUnlocked" msgid="3260617001055506794">"SIM desbloqueado"</string>
     <string name="enterNewPin" msgid="5311243769004752401">"Nuevo Código de PIN de SIM"</string>
-    <string name="verifyNewPin" msgid="2593629913010458867">"Escribe nuevamente el código PIN de SIM nuevo para confirmarlo"</string>
+    <string name="verifyNewPin" msgid="2593629913010458867">"Escriba nuevamente el código PIN de SIM nuevo para confirmarlo"</string>
     <string name="verifyFailed" msgid="3875778795754857903">"Los PIN de SIM que has ingresado no coinciden. Vuelve a intentarlo."</string>
-    <string name="enterPuk" msgid="6144749655582862324">"Escribe el código PUK para desbloquear la tarjeta SIM"</string>
+    <string name="enterPuk" msgid="6144749655582862324">"Escriba el código PUK para desbloquear la tarjeta SIM"</string>
     <string name="badPuk" msgid="3213017898690275965">"Código PUK incorrecto."</string>
     <string name="buttonTxtContinue" msgid="863271214384739936">"Continuar"</string>
-    <string name="puk_unlocked" msgid="2284912838477558454">"Tu tarjeta SIM ha sido desbloqueada. Tu teléfono está desbloqueando..."</string>
+    <string name="puk_unlocked" msgid="2284912838477558454">"Su tarjeta SIM ha sido desbloqueada. Su teléfono está desbloqueando..."</string>
     <string name="label_ndp" msgid="780479633159517250">"PIN de desbloqueo de red SIM"</string>
     <string name="sim_ndp_unlock_text" msgid="683628237760543009">"Desbloquear"</string>
     <string name="sim_ndp_dismiss_text" msgid="1604823375752456947">"Descartar"</string>
@@ -185,8 +185,8 @@
     <string name="search_networks" msgid="1601136049300882441">"Buscar redes"</string>
     <string name="network_query_error" msgid="6828516148953325006">"Error al buscar redes."</string>
     <string name="register_on_network" msgid="9055203954040805084">"Registrando en <xliff:g id="NETWORK">%s</xliff:g>..."</string>
-    <string name="not_allowed" msgid="3540496123717833833">"Tu tarjeta SIM no permite una conexión a esta red."</string>
-    <string name="connect_later" msgid="500090982903469816">"No se ha podido conectar con la red en este momento. Vuelve a intentarlo más tarde."</string>
+    <string name="not_allowed" msgid="3540496123717833833">"Su tarjeta SIM no permite una conexión a esta red."</string>
+    <string name="connect_later" msgid="500090982903469816">"No se pudo conectar con la red en este momento. Vuelva intentarlo más tarde."</string>
     <string name="registration_done" msgid="495135664535876612">"Registrado en la red."</string>
     <string name="sum_carrier_select" msgid="6526225502314751575">"Seleccionar un operador de red"</string>
     <string name="sum_search_networks" msgid="2921092249873272715">"Buscar todas las redes disponibles"</string>
@@ -221,8 +221,8 @@
     <string name="roaming" msgid="8871412572928323707">"Roaming de datos"</string>
     <string name="roaming_enable" msgid="7331106985174381987">"Conectarse a servicios de datos en el roaming"</string>
     <string name="roaming_disable" msgid="1843417228755568110">"Conectarse a servicios de datos en el roaming"</string>
-    <string name="roaming_reenable_message" msgid="6973894869473170666">"Has perdido la conectividad de los datos porque has dejado la red doméstica con roaming de datos desactivado."</string>
-    <string name="roaming_warning" msgid="7820963598559553967">"¿Deseas permitir el roaming de datos? Ten en cuenta que podrás incurrir en gastos significativos."</string>
+    <string name="roaming_reenable_message" msgid="6973894869473170666">"Ha perdido la conectividad de los datos porque has dejado la red doméstica con roaming de datos desactivado."</string>
+    <string name="roaming_warning" msgid="7820963598559553967">"¿Desea permitir el roaming de datos? Ten en cuenta que podrá incurrir en gastos significativos."</string>
     <string name="gsm_umts_options" msgid="6538311689850981686">"Opciones de GSM/UMTS"</string>
     <string name="cdma_options" msgid="4016822858172249884">"Opciones de CDMA"</string>
     <string name="throttle_data_usage" msgid="3715677828160555808">"Utilización de datos"</string>
@@ -629,11 +629,11 @@
     <string name="pick_outgoing_call_phone_type" msgid="5622916534828338675">"Haz una llamada"</string>
     <string name="pick_outgoing_sip_phone" msgid="7012322118236208875">"Usa la cuenta de llamadas por Internet:"</string>
     <string name="remember_my_choice" msgid="7058059586169290705">"Usar siempre para realizar llamadas por Internet"</string>
-    <string name="reset_my_choice_hint" msgid="8522825056755061594">"Puedes usar la Configuración de llamada para cambiar la cuenta para llamadas por Internet que quieres usar de manera predeterminada al hacer las llamadas. Para eso selecciona una cuenta diferente bajo las configuraciones de llamadas por Internet"</string>
+    <string name="reset_my_choice_hint" msgid="8522825056755061594">"Puede usar la Configuración de llamada para cambiar la cuenta para llamadas por Internet que quieres usar de manera predeterminada al hacer las llamadas. Para eso selecciona una cuenta diferente bajo las configuraciones de llamadas por Internet"</string>
     <string name="pstn_phone" msgid="8782554491484326429">"Llamada de teléfono celular"</string>
     <string name="internet_phone" msgid="1147922660195095810">"llamada por Internet"</string>
     <string name="no_sip_account_found_title" msgid="6266249392379373628">"Sin cuenta de llamadas por Internet"</string>
-    <string name="no_sip_account_found" msgid="8777818244108212791">"No hay cuentas para llamadas por Internet en éste teléfono. ¿Deseas agregar una ahora?"</string>
+    <string name="no_sip_account_found" msgid="8777818244108212791">"No hay cuentas para llamadas por Internet en éste teléfono. ¿Desea agregar una ahora?"</string>
     <string name="sip_menu_add" msgid="8757508498518881500">"Agregar"</string>
     <string name="add_sip_account" msgid="5904858426290097611">"Agregar cuenta"</string>
     <string name="remove_sip_account" msgid="7645900420385682570">"Eliminar cuenta"</string>
